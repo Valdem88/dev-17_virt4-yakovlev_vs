@@ -38,10 +38,10 @@ docker-compose &amp; yandexcloud
 
 Решение
 
-![](pic/Docker Host_Grafana.jpg)
+![](pic/Docker_Host_Grafana.jpg)
 
 
-![](pic/Monitor Services.jpg)
+![](pic/Monitor_Services.jpg)
 
 ```bash
 [centos@node01 stack]$ sudo docker-compose ps
